@@ -1,0 +1,17 @@
+channel|චැනල්
+vlogs|ව්ලොග්ස්
+report|රිපෝර්ට්
+joke|ජෝක්
+interview|ඉන්ටර්විව්
+vid|වීඩියෝ
+video|වීඩියෝ
+save|සේව්
+subscribe|සබ්ස්ක්‍රයිබ්
+views|විව්ස්
+comment|කම්මෙන්ට්
+like|ලයික්
+unlike|අන්ලයික්
+link|ලින්ක්
+nomination|නොමිනේෂන්
+car|කාර්
+ball|බෝල්
